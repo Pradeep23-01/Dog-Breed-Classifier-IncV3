@@ -1,9 +1,5 @@
 # Dog-Breed-Classifier
-Dataset - https://www.kaggle.com/c/dog-breed-identification
-
-120 Dog Breeds are classified. 
-
-Transfer Learning from InceptionV3 with ImageNet weights.
+## Dataset - https://www.kaggle.com/c/dog-breed-identification
 
 ## Task:
 Fine-grained image categorization is a challenging task that requires a deep understanding of the subtle differences between similar objects. In the case of canine breeds, this involves distinguishing between various breeds of dogs, such as Norfolk Terriers and Norwich Terriers, which have similar physical characteristics.
